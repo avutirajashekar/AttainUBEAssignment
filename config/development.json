@@ -1,0 +1,10 @@
+{
+  "mysqlMainDB": {
+    "host": "localhost",
+    "user": "root",
+    "password": "root",
+    "database": "raj",
+    "port": 3306
+  },
+  "jwtsecret": "raj@2354"
+}
